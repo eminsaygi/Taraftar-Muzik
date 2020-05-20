@@ -1,0 +1,42 @@
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.exe.config
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csprojResolveAssemblyReference.cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar_Timer.Form1.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar_Timer.Properties.Resources.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.GenerateResource.Cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Interop.WMPLib.dll
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Interop.WMPLib.dll
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.ResolveComReference.cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.exe.config
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Interop.WMPLib.dll
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.ResolveComReference.cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Interop.WMPLib.dll
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csprojResolveAssemblyReference.cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar_Timer.Form1.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar_Timer.Properties.Resources.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.GenerateResource.Cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.exe.config
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.exe
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.pdb
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\Interop.WMPLib.dll
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\bin\Debug\AxInterop.WMPLib.dll
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Interop.WMPLib.dll
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\AxInterop.WMPLib.dll
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.ResolveComReference.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar_Timer.Form1.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar_Timer.Properties.Resources.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.GenerateResource.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.exe
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 11\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.pdb
